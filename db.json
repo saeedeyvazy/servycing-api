@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"title": "I will landscape your garden",
-			"url": "./garden.jpg",
+			"url": "https://github.com/saeedeyvazy/servycing-api/blob/main/garden.jpg",
 			"rating": 4,
 			"rate": 34,
 			"specialist": {
