@@ -1,0 +1,65 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"title": "I will landscape your garden",
+			"url": "./garden.jpg",
+			"rating": 4,
+			"rate": 34,
+			"specialist": {
+				"id": 1,
+				"fullName": "Mark brone"
+			}
+		},
+		{
+			"id": 2,
+			"title": "I will paint your car from top to bottom",
+			"url": "./car.jpg",
+			"rating": 4,
+			"specialist": {
+				"id": 1,
+				"fullName": "Mark brone"
+			}
+		},
+		{
+			"id": 3,
+			"title": "I will Manage your teams with strict plan.",
+			"url": "./office.jpg",
+			"rating": 4,
+			"specialist": {
+				"id": 1,
+				"fullName": "Mark brone"
+			}
+		},
+		{
+			"id": 4,
+			"title": "I will landscape your garden",
+			"url": "./flowers.jpg",
+			"rating": 4,
+			"specialist": {
+				"id": 1,
+				"fullName": "Mark brone"
+			}
+		},
+		{
+			"id": 5,
+			"title": "I will Manage your teams with strict plan.",
+			"url": "./grass.jpg",
+			"rating": 4,
+			"specialist": {
+				"id": 1,
+				"fullName": "Mark brone"
+			}
+		},
+		{
+			"id": 6,
+			"title": "I will Manage your teams with strict plan.",
+			"url": "./car.jpg",
+			"rating": 8,
+			"specialist": {
+				"id": 2,
+				"fullName": "Mark brone"
+			}
+		}
+	]
+}
