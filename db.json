@@ -14,7 +14,7 @@
 		{
 			"id": 2,
 			"title": "I will paint your car from top to bottom",
-			"url": "./car.jpg",
+			"url": "https://raw.githubusercontent.com/saeedeyvazy/servycing-api/main/car.jpg",
 			"rating": 4,
 			"specialist": {
 				"id": 1,
@@ -24,7 +24,7 @@
 		{
 			"id": 3,
 			"title": "I will Manage your teams with strict plan.",
-			"url": "./office.jpg",
+			"url": "https://raw.githubusercontent.com/saeedeyvazy/servycing-api/main/office.jpg",
 			"rating": 4,
 			"specialist": {
 				"id": 1,
@@ -34,7 +34,7 @@
 		{
 			"id": 4,
 			"title": "I will landscape your garden",
-			"url": "./flowers.jpg",
+			"url": "https://raw.githubusercontent.com/saeedeyvazy/servycing-api/main/flowers.jpg",
 			"rating": 4,
 			"specialist": {
 				"id": 1,
@@ -44,7 +44,7 @@
 		{
 			"id": 5,
 			"title": "I will Manage your teams with strict plan.",
-			"url": "./grass.jpg",
+			"url": "https://raw.githubusercontent.com/saeedeyvazy/servycing-api/main/grass.jpg",
 			"rating": 4,
 			"specialist": {
 				"id": 1,
@@ -54,7 +54,7 @@
 		{
 			"id": 6,
 			"title": "I will Manage your teams with strict plan.",
-			"url": "./car.jpg",
+			"url": "https://raw.githubusercontent.com/saeedeyvazy/servycing-api/main/car.jpg",
 			"rating": 8,
 			"specialist": {
 				"id": 2,
